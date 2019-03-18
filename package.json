@@ -1,0 +1,44 @@
+{
+  "name": "rn-vertical-slider-gradient",
+  "version": "1.0.0",
+  "description": "A simple React native vertical slider component completely written in JS with gradient colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sacmii/rn-vertical-slider-gradient.git"
+  },
+  "keywords": [
+    "react-native",
+    "vertical-slider",
+    "column-slider",
+    "react-native-vertical-slider",
+    "rn",
+    "rn-vertical-slider",
+    "android",
+    "ios",
+    "vertical-slider-gradient",
+    "column-slider-gradient",
+    "react-native-vertical-slider-gradient",
+    "rn-vertical-slider-gradient"
+  ],
+  "author": {
+    "name": "Aswin Lakshmanan",
+    "email": "aswinlak9@gmail.com",
+    "url": "https://www.sacmii.com"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sacmii/rn-vertical-slider-gradient/issues"
+  },
+  "homepage": "https://github.com/sacmii/rn-vertical-slider-gradient#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
