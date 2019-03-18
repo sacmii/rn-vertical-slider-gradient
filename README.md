@@ -9,6 +9,9 @@
 $ npm install rn-vertical-slider-gradient
 ```
 
+## Dependencies
+* *Requires [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)*
+
 ## Usage
 * A basic example of slider
 ```
