@@ -58,7 +58,7 @@ $ npm install rn-vertical-slider-gradient
 |width|number|0|Width of the slider.|
 |height|number|0|Height of the slider.|
 |showBallIndicator|bool|false|To show or hide indicator.|
-|ballIndicatorColor|string|'#fff'|Background color for Indicator|
+|ballIndicatorColor|string|null|Background color for Indicator. If none supplied then colors from *minimumTrackTintColor* are taken.|
 |ballIndicatorWidth|number|48|Diameter of Indicator.|
 |ballIndicatorPosition|number|-50|Horizontal position of Indicator with respect to current selected value.|
 |ballIndicatorTextColor|string|'#fff'|Indicator text color.|
