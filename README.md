@@ -1,4 +1,5 @@
-# rn-vertical-slider-gradient
+# [Deprecated]
+## rn-vertical-slider-gradient
 *A vertical Slider for React Native written entirely in javascript that support linear gradient*
 
 ## Getting Started
